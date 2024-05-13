@@ -1,0 +1,26 @@
+Crossword Date: 3/3/1987
+Training Data File: training_Data3.txt
+Training Time: 274534 milliseconds
+Solving Time: 0 milliseconds
+0/37
+Crossword Date: 3/3/1987
+Training Data File: training_Data3.txt
+Training Time: 274534 milliseconds
+Solving Time: 375 milliseconds
+33/78
+Crossword Date: 9/9/2010
+Training Data File: training_Data10.txt
+Training Time: 155552 milliseconds
+Solving Time: 222 milliseconds
+35/74
+Crossword Date: 3/15/1984
+Training Data File: training_Data2.txt
+Training Time: 270502 milliseconds
+Solving Time: 277 milliseconds
+30/78 --- 0
+Crossword Date: 4/5/2010
+Training Data File: training_Data10.txt
+Training Time: 283927 milliseconds
+Solving Time: 216 milliseconds
+20/76 --- 0
+
